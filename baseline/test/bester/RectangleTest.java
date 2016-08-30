@@ -26,14 +26,14 @@ public class RectangleTest {
     @Test
     public void shoulfReturnFalseIfSecondRectangleIsBetterThanFirst() throws Exception {
         Rectangle rectangle1 = new Rectangle(1, 2);
-        Rectangle rectangle2 = new Rectangle(2,2);
+        Rectangle rectangle2 = new Rectangle(2, 2);
 
         assertFalse(rectangle1.isBetter(rectangle2));
     }
 
     @Test
     public void shouldReturnBestRectangleWhenGivenOneReactangle() throws Exception {
-        Rectangle rectangle = new Rectangle(1,2);
+        Rectangle rectangle = new Rectangle(1, 2);
         ArrayList<Rectangle> rectangles = new ArrayList<Rectangle>();
         rectangles.add(rectangle);
         assertEquals(rectangle, Bester.findBest(rectangles));
@@ -49,6 +49,7 @@ public class RectangleTest {
 
         assertEquals(rectangle2, Bester.findBest(rectangles));
     }
+
     @Test
     public void shouldReturnTheBestRectangleOutOfThreeRectangles() throws Exception {
         Rectangle rectangle1 = new Rectangle(2, 3);
