@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fbd83da-183c-4d25-9902-f9f8903993cd" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Bester.iws" />
@@ -79,10 +80,10 @@
         <option value="$PROJECT_DIR$/baseline/src/bester/Cookie.java" />
         <option value="$PROJECT_DIR$/baseline/src/bester/InvalidComparisonException.java" />
         <option value="$PROJECT_DIR$/baseline/src/bester/Rectangle.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/baseline/src/bester/Bester.java" />
         <option value="$PROJECT_DIR$/baseline/test/bester/RectangleTest.java" />
         <option value="$PROJECT_DIR$/baseline/test/bester/CookieTest.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -862,7 +863,7 @@
       <workItem from="1472118259911" duration="136000" />
       <workItem from="1472560320812" duration="729000" />
       <workItem from="1472663099118" duration="183000" />
-      <workItem from="1472728072875" duration="286000" />
+      <workItem from="1472728072875" duration="379000" />
     </task>
     <servers />
   </component>
@@ -899,7 +900,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6192000" />
+    <option name="totallyTimeSpent" value="6285000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1417" height="797" extended-state="0" />
@@ -1159,7 +1160,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
           <folding />
         </state>
       </provider>
